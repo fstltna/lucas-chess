@@ -1,7 +1,7 @@
 name:  lucas-chess
 title:  Lucas Chess
 version: "11.17"
-summary:    The program has 40 engines prepared to play from the start, and with very different levels, from 0 to 3300 elo.
+summary:    The program has 40 engines prepared to play from the start
 description: |
   This list of engines is not closed and you can add other ones with the only limitation that they use the UCI protocol. The game can be set, limiting the depth of analysis of the motor or the time used to think, or by modifying the way in which it decides. You can also choose the opening, or start in a certain position, or that the engine uses a book of openings or more or less aid. Younger children will be able to begin their apprenticeship with special engines that know little more than moving the pieces, and this will enable them to win against the engines from the very beginning. 
 
